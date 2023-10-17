@@ -1,4 +1,4 @@
-# Construct Maintainable React Admin Areas with WordPress as a Frontend-Independent Content Repository
+# Construct Maintainable React Admin Areas with WordPress CMS
 
 
 
